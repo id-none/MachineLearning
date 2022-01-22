@@ -1,0 +1,5 @@
+model_checkpoint_path: "/home/id-none/myfile/models1/pretrained_lstm.ckpt-40000"
+all_model_checkpoint_paths: "/home/id-none/myfile/models1/pretrained_lstm.ckpt-10000"
+all_model_checkpoint_paths: "/home/id-none/myfile/models1/pretrained_lstm.ckpt-20000"
+all_model_checkpoint_paths: "/home/id-none/myfile/models1/pretrained_lstm.ckpt-30000"
+all_model_checkpoint_paths: "/home/id-none/myfile/models1/pretrained_lstm.ckpt-40000"
