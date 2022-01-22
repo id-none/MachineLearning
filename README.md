@@ -46,7 +46,7 @@ https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMTEyMDESCFkzMjcxNDQyGgh4
 
 
 
-情感分析模型（[LSTM](https://so.csdn.net/so/search?q=LSTM&spm=1001.2101.3001.7020)+RNN）
+情感分析模型（LSTM+RNN）
 
 1. 数据集数据来源http://qwone.com/~jason/20Newsgroups/
 
